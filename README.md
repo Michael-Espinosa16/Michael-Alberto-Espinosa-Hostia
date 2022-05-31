@@ -13,13 +13,17 @@ Pueden investigar y utilizar los tutoriales o guías necesarias para resolverlo
 ### Instrucciones
  - **Para iniciar la prueba, haga un fork en este repositorio, cree una rama con su nombre completo y luego envíenos el enlace. Si solo clona el repositorio, no podrá hacer push y luego será más complicado hacer el pull request.**
  - El uso frameworks o librerías queda a su discreción. 
+ - Recuerde exportar los assets necesarios de figma
  
-  ### Nuestro análisis
+### Nuestro análisis
  - Se evaluará el conocimiento de HTML, CSS, JS;
  - Similitud al diseño del mockup original
  - Capacidad de investigación para resolver desafios. 
  - Organización del código, legibilidad y comentarios.
  - Historial de commits en git.
+
+### Tutoriales Recomendados
+* [https://youtu.be/Vfk6z3KW5dQ](https://youtu.be/Vfk6z3KW5dQ)
  
  ### Plus:
 * *(Opcional)* Diseño responsive
