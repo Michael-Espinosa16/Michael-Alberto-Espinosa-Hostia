@@ -1,3 +1,13 @@
+Con este trabajo estuve experimentando con la herramienta Bootstrap y me resulta bastante interesante, solo que por situaciones personales y de la universidad no pude agregar todas las funciones que quería, estuve revisando varios de los ejemplos que tiene y lo tengo como meta incluirlo como uno de mis frameworks para el desarrollo frontend porque la cantidad de documentación que hay es muy amplia y bastante fácil de aplicar.
+A continuación, pongo el enlace donde están todas las explicaciones para cada función que tienen que utilicé como guía, hay muchas que no he explorado y que están en mi lista
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+Y el enlace de el video que me ayudo a comprender un poco más fácil lo básico del programa
+https://www.youtube.com/watch?v=qgxhrJFTOJs
+
+En el código tengo algunos comentarios de las partes mas esenciales de la plantilla 
+
+También fue interesante utilizar esta plataforma por primera vez y veo que es muy útil y fácil de utilizar
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -193,4 +203,3 @@
 
 
 ![Celeste-600x400](https://user-images.githubusercontent.com/106710710/171913226-f12e6cdd-8177-4ae8-8034-049a7293d1b4.jpg)
-
